@@ -1606,7 +1606,7 @@ ol {
 		position: absolute;
 		right: 20px;
 		font-size: 30px;
-		color: #fff;
+		color: #DCAC26;
 		top: 38px;
 		display: block;
 	}
@@ -1615,7 +1615,7 @@ ol {
 		float: none;
 		position: absolute;
 		width: 100%;
-		background: #222;
+		background: #ffffff;
 		left: 0;
 		top: 100%;
 	}
