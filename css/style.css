@@ -1454,7 +1454,7 @@ ol {
 
 @media only screen and (max-width: 1366px) {
 	.hs-item {
-		min-height: 700px;
+		min-height: 750px;
 	}
 	.single-portfolio {
 		height: 400px;
