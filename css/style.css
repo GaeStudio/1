@@ -822,7 +822,8 @@ ol {
 }
 
 .single-portfolio.sm-wide {
-	width: 22.222222%;
+	width: 50%;
+	height: 600px;
 }
 
 .single-portfolio:hover .portfolio-info {
@@ -866,6 +867,7 @@ ol {
 	z-index: 9;
 	position: relative;
 	margin-bottom: 10px;
+	padding-top: 75px;
 }
 
 .portfolio-info p {
