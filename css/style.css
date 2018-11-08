@@ -228,13 +228,13 @@ ol {
 	min-width: 135px;
 	font-weight: 600;
 	padding: 18px 10px 20px;
-	color: #000;
+	color: #DCAC26;
 	background-color: transparent;
 	border: none;
 	cursor: pointer;
 	text-align: center;
-	border-top: 2px solid #222121;
-	border-bottom: 2px solid #222121;
+	border-top: 2px solid #DCAC26;
+	border-bottom: 2px solid #DCAC26;
 }
 
 .site-btn:after {
