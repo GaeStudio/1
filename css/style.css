@@ -244,7 +244,7 @@ ol {
 	height: 2px;
 	bottom: 2px;
 	left: 0;
-	background: #222121;
+	background: #DCAC26;
 }
 
 .site-btn.light {
@@ -262,12 +262,12 @@ ol {
 }
 
 .site-btn:hover {
-	color: #222121;
+	color: #DCAC26;
 }
 
 .site-btn.btn-two {
-	border-left: 2px solid #222121;
-	border-right: 2px solid #222121;
+	border-left: 2px solid #DCAC26;
+	border-right: 2px solid #DCAC26;
 }
 
 .site-btn.btn-three {
