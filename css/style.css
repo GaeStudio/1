@@ -1061,6 +1061,8 @@ ol {
 ----------------------*/
 .footer-section {
 	background: #0d0d0d;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 .footer-section h2 {
