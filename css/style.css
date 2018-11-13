@@ -1245,7 +1245,7 @@ ol {
 }
 
 .worknav .wn-info span {
-	text-transform: uppercase;
+	text-transform: none;
 	font-size: 12px;
 	font-weight: 600;
 	color: #868686;
@@ -1355,7 +1355,7 @@ ol {
 	Single work Page
 -----------------------*/
 .work-slider {
-	margin-bottom: 150px;
+	margin-bottom: 60px;
 }
 
 .work-slider .ws-item {
@@ -1393,7 +1393,7 @@ ol {
 .work-info-list li span {
 	font-size: 12px;
 	text-transform: uppercase;
-	color: #868686;
+	color: #DCAC26;
 	margin-bottom: 15px;
 	display: block;
 	letter-spacing: 1px;
@@ -1401,8 +1401,9 @@ ol {
 }
 
 .work-info-list li h4 {
-	text-transform: uppercase;
+	
 	letter-spacing: 1px;
+	color:gray;
 }
 
 .next-portfolio-link {
