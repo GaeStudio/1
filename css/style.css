@@ -676,16 +676,16 @@ ol {
 }
 
 .hero-slider .owl-dots {
-	position: absolute;
-	bottom: -5px;
-	left: 150px;
-}
+	position: inherit;
+	bottom: 200px;
+	text-align: center;
+	margin-bottom: -200px;
 
 .hero-slider .owl-dots .owl-dot {
 	display: inline-block;
 	margin-right: 30px;
 	color: #444047;
-	font-size: 0px;
+	font-size: 100px;
 	padding-bottom: 40px;
 	position: relative;
 	overflow: hidden;
