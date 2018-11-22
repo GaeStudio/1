@@ -659,7 +659,7 @@ ol {
 
 .hero-slider .owl-nav {
 	position: absolute;
-	display: inline-block;
+	display: none;
 	right: 150px;
 	top: 50%;
 	font-size: 20px;
