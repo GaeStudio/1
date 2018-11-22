@@ -48,7 +48,7 @@ $(window).on('load', function() {
 
 
 
-	/*------------------
+		/*------------------
 		Hero Slider
 	--------------------*/
 	var w_height = $(window).innerHeight();
@@ -61,22 +61,21 @@ $(window).on('load', function() {
 		mouseDrag: false,
 		animateOut: 'fadeOut',
     	animateIn: 'fadeIn',
-		navText: [' ', '<i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i>'],
+		
 		items: 1,
 		autoplay: true
 	});
 	var dot = $('.hero-slider .owl-dot');
 	dot.each(function() {
-		var index = $(this).index() + 1;
+		var index = $(this)
 		if(index < 10){
-			$(this).html('0').append(index);
+			$(this).append(index);
 			$(this).append('<span>.</span>');
 		}else{
 			$(this).html(index);
 			$(this).append('<span>.</span>');
 		}
 	});
-
 
 	/*------------------
 		Review Slider
