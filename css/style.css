@@ -1440,8 +1440,7 @@ ol {
 		padding-left: 30px;
 		padding-right: 30px;
 	}
-	.breadcrumb-area,
-	.hero-slider .owl-dots {
+	.breadcrumb-area,{
 		left: 30px;
 	}
 	.contact-text,
