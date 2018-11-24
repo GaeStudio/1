@@ -149,8 +149,12 @@ $(window).on('load', function() {
 		}
 		e.preventDefault();
 	});
-
-
+	
+	/*------------------
+		Smooth Scroll
+	--------------------*/
+	
+	var scroll = new SmoothScroll('a[href*="#"]');
 
 })(jQuery);
 
