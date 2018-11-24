@@ -150,9 +150,7 @@ $(window).on('load', function() {
 		e.preventDefault();
 	});
 
-$(".main-menu ul li a").on('click', function(event) {
-		$('.main-menu').slideToggle(400);
-	});
+
 
 })(jQuery);
 
