@@ -1421,7 +1421,27 @@ ol {
 /*---------------------
 	Responsive 
 -----------------------*/
+@media only screen and (max-width: 1920px) {
+	.hs-item {
+		min-height: 800px;
+	}
+	.sp-pad {
+		padding-left: 90px;
+		padding-right: 90px;
+	}
+	.hero-slider .owl-dots {
+		left: 0px;
+	}
+	.contact-text,
+	.services-text {
+		left: 80px;
+	}
+}
+
 @media only screen and (max-width: 1650px) {
+	.hs-item {
+		min-height: 700px;
+	}
 	.sp-pad {
 		padding-left: 90px;
 		padding-right: 90px;
@@ -1436,6 +1456,9 @@ ol {
 }
 
 @media only screen and (max-width: 1510px) {
+	.hs-item {
+		min-height: 620px;
+	}
 	.sp-pad {
 		padding-left: 30px;
 		padding-right: 30px;
