@@ -47,6 +47,13 @@ h5 {
 	font-size: 14px;
 }
 
+h6 {
+	font-size: 14.2px;
+	color: #DCAC26;
+	line-height: 2.2;
+	text-align: right;
+}
+
 p {
 	font-size: 14.2px;
 	color: #868686;
